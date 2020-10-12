@@ -1,0 +1,9 @@
+list1 = [8, 9, 5]
+list2 = [1, 2, 3]
+
+list3 = list1 + list2
+ #for printing merged list
+print(list3)
+list3.sort() 
+#for printing sorted list
+print(list3)
