@@ -1,0 +1,5 @@
+list=[67,88,63,95,74]
+temp = list[0]
+list[0] = list[-1]
+list[-1] = temp
+print("New list is:", list)
