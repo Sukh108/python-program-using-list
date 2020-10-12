@@ -1,0 +1,24 @@
+Method 1 : Sort the list in ascending order and print the last element in the list.
+list1 = [10,5,74,88,96] 
+
+  
+
+# sorting the list 
+
+list1.sort() 
+
+  
+
+# printing the last element 
+
+print("Largest element is:", list1[-1])
+Method 2 : Using max() method
+list1 = [10, 20, 4, 45, 99] 
+
+  
+
+  
+
+# printing the maximum element 
+
+print("Largest element is:", max(list1))
